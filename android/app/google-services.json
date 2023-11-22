@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60986795022",
+    "project_id": "myosa-c3e89",
+    "storage_bucket": "myosa-c3e89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60986795022:android:7f00f25964130c9749c85f",
+        "android_client_info": {
+          "package_name": "com.example.myosa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBruzo5kWQnpGWHXzUswDA1l47td_RpCdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
